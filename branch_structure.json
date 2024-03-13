@@ -1,0 +1,18 @@
+{
+  "default_branch": "master",
+  "branches": [
+    "Testing-Assignemnt",
+    "master",
+    "origin"
+  ],
+  "parent": {
+    "Testing-Assignemnt": "master",
+    "master": null,
+    "origin": "master"
+  },
+  "order": [
+    "master",
+    "Testing-Assignemnt",
+    "origin"
+  ]
+}
